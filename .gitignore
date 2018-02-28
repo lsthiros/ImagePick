@@ -1,1 +1,4 @@
 node_modules/
+javascript/
+typescript/*.js
+prod/*.html

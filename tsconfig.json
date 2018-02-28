@@ -1,0 +1,10 @@
+{
+  "CompilerOptions": {
+    "module": "commonjs"
+  },
+
+  "files": [
+    "./typescript/ImageGrid.ts",
+    "./typescript/main.ts"
+  ]
+}
